@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<officers>
+	<officer>
+		<slug>Big Boss</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/william.p.utomo?fref=ts">Willam Putra Utomo</a>]]></name>
+		<position>President</position>
+		<img>/officers/wpu.jpg</img>
+		<hobbies>Basketball, Outdoor activities, Reading</hobbies>
+		<major>Business Administration with Minor in Mathematical Finance</major>
+		<educationalbackground>De Anza College</educationalbackground>
+		<email>williamu@usc.edu</email>
+		<hometown>Surabaya</hometown>
+	</officer>
+		<officer>
+		<slug>Joy</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/jessica.ovina?fref=ts">Jessica Ovina Yaury</a>]]></name>
+		<position>Secretary</position>
+		<img>/officers/ovina.jpg</img>
+		<hobbies>Watching movies, Music</hobbies>
+		<major>Accounting</major>
+		<educationalbackground>North Seattle Community College, SMAK1 BPK Penabur</educationalbackground>
+		<email>yaury@usc.edu</email>
+		<hometown>Jakarta</hometown>
+	</officer>
+		<officer>
+		<slug>dora</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/valerie.danajaya?fref=ts">Valerie Pandora Danajaya</a>]]></name>
+		<position>Vice President of Public Relations</position>
+		<img>/officers/valerie.jpg</img>
+		<hobbies>Travelling</hobbies>
+		<major>Business Administration</major>
+		<educationalbackground>Shoreline Community College, Tunas Muda International School</educationalbackground>
+		<email>danajaya@usc.edu</email>
+		<hometown>Jakarta</hometown>
+	</officer>
+		<officer>
+		<slug>gue ganteng</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/fredrictanu?fref=ts">Fredric Edbert Tanuwijoyo</a>]]></name>
+		<position>Vice President of Finance</position>
+		<img>/officers/fredric.jpg</img>
+		<hobbies>Singing</hobbies>
+		<major>Business Administration</major>
+		<educationalbackground>De Anza Community College</educationalbackground>
+		<email>tanuwijo@usc.edu</email>
+		<hometown>Jakarta</hometown>
+	</officer>
+        <officer>
+		<slug>yosua</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/yosua.t.utama?fref=ts">Yosua Triatmaja Utama</a>]]></name>
+		<position>Vice President of Operation</position>
+		<img>/officers/yosua.jpg</img>
+		<hobbies>Sleeping, Playing Soccer and Games</hobbies>
+		<major>Economics</major>
+		<educationalbackground>Santa Monica College, Sekolah Pelita Harapan</educationalbackground>
+		<email>yutama@usc.edu</email>
+		<hometown>Pekalongan</hometown>
+	</officer>
+		<officer>
+		<slug>latip</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/mhlatip?fref=ts">Michael Latip</a>]]></name>
+		<position>Vice President of Event Organizer</position>
+		<img>/officers/latip.jpg</img>
+		<hobbies>Studying</hobbies>
+		<major>Bussiness Administration</major>
+		<educationalbackground>Pasadena City College</educationalbackground>
+		<email>mlatip@usc.edu</email>
+		<hometown>Jakarta</hometown>
+	</officer>
+		<officer>
+		<slug>pros</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/christopher.prospero.7?fref=ts">Christopher Prospero</a>]]></name>
+		<position>Vice President of External Affair</position>
+		<img>/officers/prospero.jpg</img>
+		<hobbies>Tidur</hobbies>
+		<major>Business Administration</major>
+		<educationalbackground>Pasadena City College</educationalbackground>
+		<email>puryanto@usc.edu</email>
+		<hometown>Jakarta</hometown>
+	</officer>
+		<officer>
+		<slug>Bella</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/pingkan.tombokan?fref=ts">Arabella Sumendap</a>]]></name>
+		<position>Vice President of Marketing</position>
+		<img>/officers/arabella.jpg</img>
+		<hobbies>Travelling and Scrapbooking</hobbies>
+		<major>Business Administration</major>
+		<educationalbackground>Pasadena City College</educationalbackground>
+		<email>sumendap@usc.edu</email>
+		<hometown>Jakarta</hometown>
+	</officer>
+        <officer>
+		<slug>resko</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/adhi.sosrodjojo?fref=ts">Adhi Rekso Sosrodjojo</a>]]></name>
+		<position>Vice President of Communication</position>
+		<img>/officers/adhi.jpg</img>
+		<hobbies>Games, Music, Sports</hobbies>
+		<major>International Relations Global Business</major>
+		<educationalbackground>Foothill College, Gandhi Memorial International School</educationalbackground>
+		<email>sosrodjo@usc.edu</email>
+		<hometown>Jakarta</hometown>
+	</officer>
+		<officer>
+		<slug>elsen</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/elsennn">Elsen Krisna Wiraatmadja</a>]]></name>
+		<position>Web Master</position>
+		<img>/officers/elsen.jpg</img>
+		<hobbies>Spacing out</hobbies>
+		<major>Computer Science</major>
+		<educationalbackground>Green River Community College</educationalbackground>
+		<email>ewiraatm@usc.edu</email>
+		<hometown>Jakarta</hometown>
+	</officer>
+</officers>
