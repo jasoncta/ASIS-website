@@ -8,6 +8,10 @@
 		<url>https://twitter.com/#!/USCASIS</url>
 		<img>/template/social/twitter_alt.png</img>
 	</social>
+	<social>
+		<url>https://instagram.com/uscasis</url>
+		<img>/template/social/instagram_alt.png</img>
+	</social>
 	<slideshow>
 		<slide>
 			<img>/slideshow/Officers2013</img>
@@ -18,3 +22,7 @@
 		
 	</slideshow>
 </welcome>
+<!--
+
+http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&docid=K7oN9ZtCQXv9dM&tbnid=EqgeCSkL1TvxkM:&ved=0CAEQjxw&url=http%3A%2F%2Fwww.gretelhome.com%2F368-the-mod-collective&ei=9PiDU9aUFoTqoAT6poDYDg&bvm=bv.67720277,d.cGU&psig=AFQjCNHwkfIMHFXfobcrWKQT4vbW1XxSkQ&ust=1401244258806217
+-->

@@ -1,0 +1,9 @@
+# Do not remove this line, otherwise mod_rewrite rules will stop working
+RewriteBase /
+Options -Indexes
+ErrorDocument 404 /404
+ErrorDocument 500 /404
+
+RewriteEngine on
+RewriteCond $1 !^(index\.php|images|data|css|js|robots\.txt)
+RewriteRule ^(.*)$ index.php/$1 [L]
