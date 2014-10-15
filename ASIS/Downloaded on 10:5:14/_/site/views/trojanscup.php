@@ -52,6 +52,8 @@
             REGISTERED TEAM
         <hr>
     </h2></p>
+
+    <img src="<?php echo base_url("images/"); ?>/RegisteredTeams.jpg" height="250" width="400">
     </div>
 
     <div class="sevencol last">
