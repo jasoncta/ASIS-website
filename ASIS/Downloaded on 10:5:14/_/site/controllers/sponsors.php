@@ -1,8 +1,27 @@
-<section class="container" id="contact-header">
-	<div class="row">
-		<div class="twelvecol">
-			<img src="../../images/contact-header.jpg" />
+<?php
+    /**
+     * Simple Facebook Events Explorer Script
+     *
+     * author: Harman Goei
+     *
+     */
+	class Reelection extends CI_Controller {
+		
+        
+		function __construct()
+		{
+			parent::__construct();
 			
-		</div>
-	</div>
-</section>
+			
+		}
+		
+		
+		function index()
+		{
+			$data["page"] = "reelection";
+			$this->load->view('main', $data);
+		}
+		
+		
+        
+	}
