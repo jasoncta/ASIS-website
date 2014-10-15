@@ -12,7 +12,7 @@ function printActive($page) {
 <div class="container" id="header">
 	<header class="row" data-scrollspy="scrollspy">
 		<div class="threecol" id="logo">
-			<img src="<?php echo base_url(); ?>images/template/logo.jpg" alt="">
+			<img src="<?php echo base_url(); ?>images/template/logo.jpg" height="150" width="150" alt="">
 		</div>
 		<ul class="ninecol last" id="nav" >
 			<li <?php echo printActive("welcome"); ?> ><a href="/">home</a></li>
