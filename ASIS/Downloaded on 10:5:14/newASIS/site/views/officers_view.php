@@ -1,7 +1,7 @@
 <section class="container" id="officers-header">
 	<div class="row">
 		<div class="twelvecol">
-			<img src="<?php echo base_url("images/"); ?>/officers/mainOfficers.jpg" title="USC ASIS 2014-2015 Officers" />
+			<img src="<?php echo base_url("images/"); ?>/officers/Officers2014-15.jpg" title="USC ASIS 2014-2015 Officers" />
 		</div>
 	
 	</div>
