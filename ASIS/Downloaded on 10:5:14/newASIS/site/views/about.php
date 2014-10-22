@@ -24,7 +24,7 @@
 <section class="container" id="about-header-2">
 	<div class="row">
 		<div class="twelvecol">
-			<img src="<?php echo base_url("images/"); ?>/about-header-2.jpg" />
+			<img src="<?php echo base_url("images/"); ?>/new-about-header-2.jpg" />
 			
 		</div>
 	</div>
