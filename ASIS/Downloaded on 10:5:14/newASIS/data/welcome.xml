@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<welcome>
+	<social>
+		<url>https://www.facebook.com/usc.asis</url>
+		<img>/template/social/facebook_alt.png</img>
+	</social>
+	<social>
+		<url>https://instagram.com/uscasis</url>
+		<img>/template/social/instagram_alt.png</img>
+	</social>
+	<slideshow>
+		<slide>
+			<img>/slideshow/ASIS_Officers2014.jpg</img>
+			<url></url>
+			 <caption>Officers 2014-2015</caption> 
+		</slide>
+
+		
+	</slideshow>
+</welcome>

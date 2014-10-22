@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<officers>
+	<officer>
+		<slug>winston</slug>
+		<name><![CDATA[<a href="http://www.facebook.com/win23ston">Winston Utomo</a>]]></name>
+		<position>President</position>
+		<img>/officers/winston.jpg</img>
+		<hobbies>Soccer, basketball, watching NBA and soccer game, "cangkruk"</hobbies>
+		<major>Business Administration (Entrepreneurship)</major>
+		<music>Anything</music>
+		<accomplishment>Being a part of the Trojan family</accomplishment>
+		<objections>Racism</objections>
+		<duties>Manage, organize, and overlook operations; coordinate ASIS officers and members and lead ASIS to serve better.</duties>
+	</officer>
+	<officer>
+		<slug>alwin</slug>
+		<name><![CDATA[<a href="http://www.facebook.com/alwinsasmita">Alwin Sasmita</a>]]></name>
+		<position>Vice President of Finance</position>
+		<img>/officers/alwin.jpg</img>
+		<hobbies>Basketball, Watching NBA, Investing</hobbies>
+		<major>Business Administration</major>
+		<music>John Mayer, Adele</music>
+		<accomplishment>Being a part of USC Trojans and ASIS!</accomplishment>
+		<objections>Dishonest people</objections>
+		<duties>Responsible for ASIS bank account, financial planning for events, and financial statements</duties>
+	</officer>
+	<officer>
+		<slug>raymond</slug>
+		<name><![CDATA[<a href="http://www.facebook.com/profile.php?id=640242422">Raymond Ferry</a>]]></name>
+		<position>Vice President of Public Relations</position>
+		<img>/officers/raymond.jpg</img>
+		<hobbies>Golfing, Reading, Exploring new food</hobbies>
+		<major>Business Administration</major>
+		<music>Soft Pop and Jazz</music>
+		<accomplishment>Become a good son ha!</accomplishment>
+		<objections>Racism</objections>
+		<duties>Connecting all of Indonesians in the USC. To be exact, make all of USC's Indonesian Students to be united.</duties>
+	</officer>
+	<officer>
+		<slug>deasy</slug>
+		<name><![CDATA[<a href="http://www.facebook.com/deasysibarani?ref=ts">Deasy Sibarani</a>]]></name>
+		<position>Vice President of Event Organization</position>
+		<img>/officers/deasy.jpg</img>
+		<hobbies>Singing, Traveling</hobbies>
+		<major>Business Administration</major>
+		<music>I listen to any kind of music, a lot of indie folk.</music>
+		<accomplishment>Got into one of the best schools in the world, USC. </accomplishment>
+		<objections>UCLA is a good school (pshh)</objections>
+		<duties>Plan and arrange ASIS events, try to make it fun and memorable for everyone.</duties>
+	</officer>
+	<officer>
+		<slug>hanna</slug>
+		<name><![CDATA[<a href="http://www.facebook.com/hsugialam">Hanna Sugialam</a>]]></name>
+		<position>Vice President of External Affairs</position>
+		<img>/officers/hanna.jpg</img>
+		<hobbies>listening to music, reading</hobbies>
+		<major>Industrial and System Engineering</major>
+		<music>pop</music>
+		<accomplishment>slept for 13 hours straight in a day, attained the highest final exam grade in junior high</accomplishment>
+		<objections>success only comes from luck</objections>
+		<duties>Maintaining a good relationship with other organizations, inside and outside USC</duties>
+	</officer>
+	<officer>
+		<slug>sasti</slug>
+		<name><![CDATA[<a href="http://www.facebook.com/hsugialam">Dara Sarasati</a>]]></name>
+		<position>Secretary</position>
+		<img>/officers/sasti.jpg</img>
+		<hobbies>horse riding, playing pool, reading books</hobbies>
+		<major>Business Administration</major>
+		<music>all things worth listening to</music>
+		<accomplishment>Getting into USC Marshall, meeting awesome people in Trojan Family and having awesome experiences with them!</accomplishment>
+		<objections>People who lie, especially to themselves.</objections>
+		<duties>Manage communications and publications</duties>
+	</officer>
+	<officer>
+		<slug>stephanie</slug>
+		<name><![CDATA[<a href="http://www.facebook.com/shadisumarto">Stephanie Tan</a>]]></name>
+		<position>ISA Representative</position>
+		<img>/officers/default.gif</img>
+		<hobbies>Watching movies, soccer, travelling</hobbies>
+		<major>Business Administration</major>
+		<music>Most pop songs</music>
+		<accomplishment>Shook hands with the best goalkeeper in the world (yes, he is THE best!), jumped off a 30-feet platform into the water</accomplishment>
+		<objections>Stereotype</objections>
+		<duties>Connect ASIS with the International Student Assembly and other student organizations on campus</duties>
+	</officer>
+	<officer>
+		<slug>harman</slug>
+		<name><![CDATA[<a href="http://www.facebook.com/harmangoei">Harman Goei</a>]]></name>
+		<position>Webmaster</position>
+		<img>/officers/harman.jpg</img>
+		<hobbies>website design and development, software engineering, hardware engineering, rocking out the guitar</hobbies>
+		<major>Computer Science and Engineering</major>
+		<music>Rock and old School</music>
+		<accomplishment>Getting into USC Viterbi School of Engineering and making amazing things every day</accomplishment>
+		<objections>coding forever</objections>
+		<duties>Manage and control all social relations of http://www.uscasis.com and the USC ASIS facebook page.</duties>
+	</officer>
+</officers>
