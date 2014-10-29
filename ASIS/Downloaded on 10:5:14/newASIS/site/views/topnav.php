@@ -16,14 +16,12 @@ function printActive($page) {
 		</div>
 		<ul class="ninecol last" id="nav" >
 			<li <?php echo printActive("welcome"); ?> ><a href="/">home</a></li>
-			<li <?php echo printActive("sponsors"); ?> ><a href="/sponsors">sponsors</a></li>
 			<li <?php echo printActive("trojanscup"); ?>><a href="/trojanscup">trojans cup</a></li>
 			<li <?php echo printActive("events"); ?>><a href="/events">events</a></li>
 			<li <?php echo printActive("officers"); ?>><a href="/officers">eboard</a></li>
 			<li <?php echo printActive("gallery"); ?>><a href="/gallery">gallery</a></li>
 			<li <?php echo printActive("contact"); ?>><a href="/contact">contact</a></li>
-			<li <?php echo printActive("about"); ?>><a href="/about">about</a></li>
-			<li <?php echo printActive("extra"); ?>><a href="/extra">extra</a></li>
+			<li <?php echo printActive("about/sponsors"); ?>><a href="/about">about/sponsors</a></li>
 		</ul>
 	</header>
 </div>
