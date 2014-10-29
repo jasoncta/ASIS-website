@@ -10,7 +10,7 @@
 <section class="container" id="about-1">
 	<div class="row">
 		<div class="fivecol">
-			<img src="<?php echo base_url("images/"); ?>/about-1.jpg" />
+			<img src="<?php echo base_url("images/"); ?>/about-1-new.jpg" />
 		</div>
 		<div class="sevencol last">
 			<p>
@@ -45,7 +45,7 @@
 		</div>
 	
 		<div class="fivecol last" style="text-align:right;">
-			<img  src="<?php echo base_url("images/"); ?>/about-2.jpg" />
+			<img  src="<?php echo base_url("images/"); ?>/about-2-new.jpg" />
 		</div>
 
 	</div>
