@@ -30,9 +30,13 @@
 		<div class="eightcol">
 			<div>
                 <u>UPCOMING</u><br>
-                <a href="/reelection">ASIS RE-ELECTION 2014-2015 - MARCH 29, 2014</a><br>
                 <br><u>PAST</u><br>
-                <a href="/trojanscup">TROJANS CUP - NOVEMBER 2, 2013</a><br>
+                <a href="/trojanscup">TROJANS CUP - NOVEMBER 8, 2014</a><br> 
+                ASIS BADMINTON - OCTOBER 11, 2014<br> 
+                ASIS TAILGATE - OCTOBER 4, 2014<br> 
+                FALL WELCOMING PARTY - SEPTEMBER 6, 2014<br> 
+                <a href="/reelection">ASIS RE-ELECTION 2014-2015 - MARCH 29, 2014</a><br>
+                TROJANS CUP - NOVEMBER 2, 2013<br>
                 <a href="/fallwelcoming">FALL WELCOMING PARTY - SEPTEMBER 28, 2013</a><br>
             </div>
             

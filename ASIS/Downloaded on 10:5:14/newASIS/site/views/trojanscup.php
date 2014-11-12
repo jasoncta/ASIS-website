@@ -49,7 +49,7 @@
 <div class="row">
     <div class="twelvecol">
         <p><h2>
-            REGISTERED TEAM
+            REGISTERED TEAMS
         <hr>
     </h2></p>
 
