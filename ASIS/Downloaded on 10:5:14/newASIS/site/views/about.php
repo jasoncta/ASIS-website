@@ -50,31 +50,3 @@
 
 	</div>
 </section>
-
-<section class="container" id="sponsors">
-	<div class="row">
-		
-		<div class="sevencol last">
-			<p>
-			ASIS is sponsored by the following organizations:
-			<br/>
-			</p>
-		</div>
-
-		<div class="fivecol">
-			<img src="<?php echo base_url("images/"); ?>/AUSCI_logo.jpg"/>
-			<br/>
-		</div>
-
-		<div class="fivecol">
-			<img src="<?php echo base_url("images/"); ?>/Quanco_logo.jpg"/>
-			<br/>
-		</div>
-
-		<div class="fivecol">
-			<img src="<?php echo base_url("images/"); ?>/ace-hardware-logo.png" height="100" width="100"/>
-			<br/>
-		</div>
-	
-	</div>
-</section>
