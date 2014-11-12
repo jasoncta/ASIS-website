@@ -7,9 +7,9 @@
 		<div class="fourcol">
 			<h1>OR</h1>
 		</div>
-		<div class="fourcol twitter last">
-			<img src="<?php echo base_url("images/"); ?>/twitter-header.jpg" title="Like us on USC ASIS" />
-			<a href="https://twitter.com/USCASIS" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @USCASIS</a>
+		<div class="fourcol insta last">
+			<img src="<?php echo base_url("images/"); ?>/insta-header.jpg" title="Like us on USC ASIS" />
+			<a href="https://instagram.com/USCASIS" class="insta-follow-button" data-show-count="false" data-size="large">Follow @USCASIS</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 		</div>
 	
