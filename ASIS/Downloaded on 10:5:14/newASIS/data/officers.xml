@@ -11,7 +11,7 @@
 		<email>bensonli@usc.edu</email>
 		<hometown>Jakarta</hometown>
 	</officer>
-		<officer>
+	<officer>
 		<slug>Chris</slug>
 		<name><![CDATA[<a href="https://www.facebook.com/chris.adriano?fref=ts">Christopher Adriano</a>]]></name>
 		<position>Secretary</position>
@@ -22,7 +22,7 @@
 		<email>marsudid@usc.edu</email>
 		<hometown>Jakarta</hometown>
 	</officer>
-		<officer>
+	<officer>
 		<slug>Franciska</slug>
 		<name><![CDATA[<a href="https://www.facebook.com/franciska.wijaya?fref=ts">Franciska Wijaya</a>]]></name>
 		<position>Vice President of Public Relations</position>
@@ -33,7 +33,7 @@
 		<email>fwijaya@usc.edu</email>
 		<hometown>Jakarta</hometown>
 	</officer>
-		<officer>
+	<officer>
 		<slug>Liz</slug>
 		<name><![CDATA[<a href="https://www.facebook.com/siborutorop?fref=ts">Maria Elizabeth Siborutorop</a>]]></name>
 		<position>Vice President of Finance</position>
@@ -44,10 +44,10 @@
 		<email>siboruto@usc.edu</email>
 		<hometown>Jakarta</hometown>
 	</officer>
-        <officer>
+	<officer>
 		<slug>Ivan</slug>
 		<name><![CDATA[<a href="https://www.facebook.com/ivan.darmawan1?fref=ts">Ivan Darmawan</a>]]></name>
-		<position>Vice President of Operation</position>
+		<position>Vice President of Operations</position>
 		<img>/officers/ivan.jpg</img>
 		<hobbies>Sleeping, Eating, Travelling</hobbies>
 		<major>Industrial and Systems Engineering</major>
@@ -55,10 +55,10 @@
 		<email>idarmawa@usc.edu</email>
 		<hometown>Jakarta</hometown>
 	</officer>
-		<officer>
+	<officer>
 		<slug>Fernando</slug>
 		<name><![CDATA[<a href="https://www.facebook.com/FernandoKose?fref=ts">Fernando Kose</a>]]></name>
-		<position>Vice President of Event Organizer</position>
+		<position>Vice President of Event Organizing</position>
 		<img>/officers/fernando.jpg</img>
 		<hobbies>Basketball, Travelling, Gaming, Cooking</hobbies>
 		<major>Bussiness Administration</major>
@@ -66,10 +66,10 @@
 		<email>fkose@usc.edu</email>
 		<hometown>Jakarta</hometown>
 	</officer>
-		<officer>
+	<officer>
 		<slug>Danny</slug>
 		<name><![CDATA[<a href="https://www.facebook.com/alexander.danny.71?fref=ts">Alexander Danny Sufjan</a>]]></name>
-		<position>Vice President of External Affair</position>
+		<position>Vice President of External Affairs</position>
 		<img>/officers/danny.jpg</img>
 		<hobbies>Playing Soccer, Watching Movies</hobbies>
 		<major>Business Administration</major>
@@ -77,7 +77,7 @@
 		<email>sufjan@usc.edu</email>
 		<hometown>Jakarta</hometown>
 	</officer>
-		<officer>
+	<officer>
 		<slug>Mary</slug>
 		<name><![CDATA[<a href="https://www.facebook.com/mary.s.salim?fref=ts">Mary Sofiani</a>]]></name>
 		<position>Vice President of Marketing</position>
@@ -88,10 +88,10 @@
 		<email>sofiani@usc.edu</email>
 		<hometown>Jakarta</hometown>
 	</officer>
-        <officer>
+	<officer>
 		<slug>Octa</slug>
 		<name><![CDATA[<a href="https://www.facebook.com/octavian.oetomo?fref=ts">Octavian Ko</a>]]></name>
-		<position>Vice President of Communication</position>
+		<position>Vice President of Communications</position>
 		<img>/officers/octa.jpg</img>
 		<hobbies>Volunteer Work, Cooking, Watching Movies, Travelling</hobbies>
 		<major>Business Administration</major>
@@ -99,7 +99,7 @@
 		<email>octavian.ko@usc.edu</email>
 		<hometown>Jakarta</hometown>
 	</officer>
-		<officer>
+	<officer>
 		<slug>Jason</slug>
 		<name><![CDATA[<a href="https://www.facebook.com/profile.php?id=3707810&fref=ts">Jason Tan</a>]]></name>
 		<position>Web Master</position>
@@ -109,5 +109,82 @@
 		<educationalbackground>Windward School, University of Rochester</educationalbackground>
 		<email>jasoncta@usc.edu</email>
 		<hometown>Los Angeles</hometown>
+	</officer>
+	<officer>
+		<slug>Sherlyn</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/sssssherlyn?fref=ts">Sherlyn Gautama</a>]]></name>
+		<position>Officer of External Affairs</position>
+		<img>/officers/sherlyn.jpg</img>
+		<hobbies>Travelling, Music, Baking, High-Adrenaline Sports, Disney</hobbies>
+		<major>Business Administration</major>
+		<educationalbackground>ACS International, Pasadena City College</educationalbackground>
+		<email>gautama@usc.edu</email>
+		<hometown>Jakarta</hometown>
+	</officer>
+	<officer>
+		<slug>Brian S</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/brian.m.santoso?fref=ts">Brian Matthew Santoso</a>]]></name>
+		<position>Officer of Event Organizing</position>
+		<img>/officers/default.gif</img>
+		<hobbies>Sports</hobbies>
+		<major>Business Administration</major>
+		<educationalbackground>Santa Laurensia High School, Pasadena City College</educationalbackground>
+		<email>bmsantos@usc.edu</email>
+		<hometown>Jakarta</hometown>
+	</officer>
+	<officer>
+		<slug>Viona</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/daisyviona?fref=ts">Viona Daisy</a>]]></name>
+		<position>Officer of Event Organizing</position>
+		<img>/officers/viona.jpg</img>
+		<hobbies>Traveling, Photography</hobbies>
+		<major>Business Administration</major>
+		<educationalbackground>Pasadena City College</educationalbackground>
+		<email>vdaisy@usc.edu</email>
+		<hometown>Medan</hometown>
+	</officer>
+	<officer>
+		<slug>Vanessa</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/vanessa.gunawan.165?fref=ts">Vanessa Gunawan</a>]]></name>
+		<position>Officer of Marketing</position>
+		<img>/officers/default.gif</img>
+		<hobbies>Watching Movies, Trying Out New Restaurants</hobbies>
+		<major>Business Administration</major>
+		<educationalbackground>Binus International School Simprug</educationalbackground>
+		<email>vgunawan@usc.edu</email>
+		<hometown>Jakarta</hometown>
+	</officer>
+	<officer>
+		<slug>Carina</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/carinnnaa?fref=ts">Carina Sadeli</a>]]></name>
+		<position>Officer of Public Relations</position>
+		<img>/officers/carina.jpg</img>
+		<hobbies>Drawing, Traveling, Eating, Hanging Out With Friends</hobbies>
+		<major>Animation</major>
+		<educationalbackground>Canyon High School</educationalbackground>
+		<email>sadeli@usc.edu</email>
+		<hometown>Jakarta</hometown>
+	</officer>
+	<officer>
+		<slug>Livia</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/ng.livia?fref=ts">Livia Ng</a>]]></name>
+		<position>Officer of Communications</position>
+		<img>/officers/default.gif</img>
+		<hobbies>Basketball, Traveling</hobbies>
+		<major>Business Administration</major>
+		<educationalbackground>Ipeka International Christian School, De Anza College</educationalbackground>
+		<email>liviang@usc.edu</email>
+		<hometown>Jakarta</hometown>
+	</officer>
+	<officer>
+		<slug>Ashley</slug>
+		<name><![CDATA[<a href="https://www.facebook.com/ashley.tjahjadi">Tiffany Ashley Tjahjadi</a>]]></name>
+		<position>Web Master</position>
+		<img>/officers/ashley.jpg</img>
+		<hobbies>Watching Movies, Coding, Eating, Traveling</hobbies>
+		<major>Computer Science</major>
+		<educationalbackground>Surabaya International School</educationalbackground>
+		<email>ttjahjad@usc.edu</email>
+		<hometown>Surabaya</hometown>
 	</officer>
 </officers>

@@ -33,7 +33,7 @@
 					<td><?php echo $officer->hobbies; ?></td>
 				</tr>
 				<tr>
-					<th>Educational Backgroud</th>
+					<th>Educational Background</th>
 					<td><?php echo $officer->educationalbackground; ?></td>
 				</tr>
 				<tr>
