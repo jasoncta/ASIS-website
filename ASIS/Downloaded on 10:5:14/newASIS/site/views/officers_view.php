@@ -1,12 +1,3 @@
-<section class="container" id="officers-header">
-	<div class="row">
-		<div class="twelvecol">
-			<img src="<?php echo base_url("images/"); ?>/officers/WeAreIndonesianTrojans.jpg" title="USC ASIS 2014-2015 Officers" />
-		</div>
-	
-	</div>
-</section>
-
 <section class="container" id="officers">
 	<div class="row">
 		<div class="twelvecol">
